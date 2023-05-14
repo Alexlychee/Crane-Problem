@@ -89,8 +89,6 @@ path crane_unloading_dyn_prog(const grid& setting) {
     cell_type from_above = std::nullopt;
     cell_type from_left = std::nullopt;
 
-    // TODO: implement the dynamic programming algorithm, then delete this
-    // comment.
       if (r > 0 && setting.get(r - 1, c) != CELL_BUILDING && A[r - 1][c].has_value()) {
         from_above = A[r - 1][c].value();
         from_above->add_step(STEP_DIRECTION_SOUTH);
