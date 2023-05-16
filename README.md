@@ -1,6 +1,6 @@
 # Project 2: Dynamic vs. Exhaustive - Crane unloading problem
 # Group Members:
-* Saad Asari - Saadasari@csu.fullerton.edu
+* Saad Asari - saadansari@csu.fullerton.edu
 # CPSC 335 - Algorithm Engineering
 # Spring 2023
 # Instructor: Himani Tawade
